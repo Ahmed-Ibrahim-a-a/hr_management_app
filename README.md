@@ -5,7 +5,7 @@ https://dribbble.com/shots/18127619-HR-Management-App
 
 ## Screenshots
 
-<img src="https://github.com/ZurraJanai/hr_management_app/blob/master/screenshots/Screenshot_2022-05-03-16-46-42-154_com.example.hr_management_app.jpg">
+![image1](https://github.com/ZurraJanai/hr_management_app/blob/master/screenshots/Screenshot_2022-05-03-16-46-42-154_com.example.hr_management_app.jpg | width=100)
 ![image2](https://github.com/ZurraJanai/hr_management_app/blob/master/screenshots/Screenshot_2022-05-03-16-46-55-071_com.example.hr_management_app.jpg)
 
 
