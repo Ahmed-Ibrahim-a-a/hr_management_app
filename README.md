@@ -1,16 +1,12 @@
-# hr_management_app
+# Hr Management App Ui
 
-A new Flutter project.
+## Ui is from:
+https://dribbble.com/shots/18127619-HR-Management-App
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![image1](https://github.com/ZurraJanai/hr_management_app/blob/master/screenshots/Screenshot_2022-05-03-16-46-42-154_com.example.hr_management_app.jpg)
+![image2]https://github.com/ZurraJanai/hr_management_app/blob/master/screenshots/Screenshot_2022-05-03-16-46-55-071_com.example.hr_management_app.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy.
